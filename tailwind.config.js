@@ -11,12 +11,12 @@ module.exports = {
         sans: ['var(--font-inter)'],
       },
       colors: {
-        primary: '#3b82f6',
-        secondary: '#6b7280',
-        dark: '#1f2937',
-        light: '#f9fafb',
+        primary: '#4F46E5',
+        secondary: '#6B7280',
+        background: '#F9FAFB',
+        text: '#1F2937',
       }
     },
   },
   plugins: [],
-}
+};
